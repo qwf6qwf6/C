@@ -1,0 +1,6 @@
+﻿  Calculate-the-area-of-the-triangle.c
+C:\Users\lenovo\source\repos\Calculate-the-area-of-the-triangle\Calculate-the-area-of-the-triangle\Calculate-the-area-of-the-triangle.c(17,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\lenovo\source\repos\Calculate-the-area-of-the-triangle\Calculate-the-area-of-the-triangle\Calculate-the-area-of-the-triangle.c(28,9): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+C:\Users\lenovo\source\repos\Calculate-the-area-of-the-triangle\Calculate-the-area-of-the-triangle\Calculate-the-area-of-the-triangle.c(30,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lenovo\source\repos\Calculate-the-area-of-the-triangle\Calculate-the-area-of-the-triangle\Calculate-the-area-of-the-triangle.c(31,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  Calculate-the-area-of-the-triangle.vcxproj -> C:\Users\lenovo\source\repos\Calculate-the-area-of-the-triangle\x64\Debug\Calculate-the-area-of-the-triangle.exe
