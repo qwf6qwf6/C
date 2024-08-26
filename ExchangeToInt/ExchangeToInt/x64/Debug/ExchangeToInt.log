@@ -1,0 +1,4 @@
+﻿  ExchangeToInt.c
+D:\C\c-process\ExchangeToInt\ExchangeToInt\ExchangeToInt.c(8,11): warning C4305: “初始化”: 从“int”到“char”截断
+D:\C\c-process\ExchangeToInt\ExchangeToInt\ExchangeToInt.c(10,11): warning C4305: “初始化”: 从“int”到“char”截断
+  ExchangeToInt.vcxproj -> D:\C\c-process\ExchangeToInt\x64\Debug\ExchangeToInt.exe
