@@ -1,0 +1,4 @@
+﻿  pointer.c
+D:\C\c-process\pointer\pointer\pointer.c(16,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+D:\C\c-process\pointer\pointer\pointer.c(19,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  pointer.vcxproj -> D:\C\c-process\pointer\x64\Debug\pointer.exe
