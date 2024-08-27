@@ -1,0 +1,10 @@
+﻿  pointer2.c
+D:\C\c-process\pointer2\pointer2\pointer2.c(21,14): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\C\c-process\pointer2\pointer2\pointer2.c(16,8): warning C4090: “初始化”: 不同的“const”限定符
+D:\C\c-process\pointer2\pointer2\pointer2.c(60,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\C\c-process\pointer2\pointer2\pointer2.c(46,7): warning C4090: “初始化”: 不同的“const”限定符
+D:\C\c-process\pointer2\pointer2\pointer2.c(50,7): warning C4090: “初始化”: 不同的“const”限定符
+D:\C\c-process\pointer2\pointer2\pointer2.c(52,13): warning C4090: “初始化”: 不同的“const”限定符
+D:\C\c-process\pointer2\pointer2\pointer2.c(75,7): warning C4101: “qb”: 未引用的局部变量
+D:\C\c-process\pointer2\pointer2\pointer2.c(26,1): warning C4172: 返回局部变量或临时变量的地址: n
+  pointer2.vcxproj -> D:\C\c-process\pointer2\x64\Debug\pointer2.exe
