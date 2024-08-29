@@ -1,0 +1,4 @@
+﻿  pointer4.c
+D:\C\c-process\pointer4\pointer4\pointer4.c(75,7): warning C4101: “p”: 未引用的局部变量
+D:\C\c-process\pointer4\pointer4\pointer4.c(75,10): warning C4101: “q”: 未引用的局部变量
+  pointer4.vcxproj -> D:\C\c-process\pointer4\x64\Debug\pointer4.exe
